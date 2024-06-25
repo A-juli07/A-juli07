@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/A-juli07/A-juli07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/A-juli07/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
