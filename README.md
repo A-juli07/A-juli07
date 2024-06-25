@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Profile em criação!
-![image](https://github.com/A-juli07/A-juli07/assets/113532608/0615afd7-bf3e-46b3-b667-8c32eb838ca2)
-
+![Snake animation](https://github.com/A-juli07/A-juli07/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
