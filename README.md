@@ -8,9 +8,13 @@ Sou Ana Julia, um desenvolvedor apaixonado por criar soluções inovadoras e efi
 🛠️ Tecnologias e Ferramentas
 
 Linguagens de Programação: Python, PHP
+
 Frameworks e Bibliotecas: Django
+
 Banco de Dados: PostgreSQL, MySQL
+
 Ferramentas: Docker, XAMPP, Git, GitHub, Apache
+
 Outras: APIs do Google 
 
 📂 Projetos Destacados
