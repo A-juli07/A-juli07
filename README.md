@@ -19,13 +19,13 @@ Outras: APIs do Google
 
 📂 Projetos Destacados
 
-Gerenciador de Remédios: Um programa em Python para gerenciar uma lista de remédios, com funcionalidades de cadastro, listagem e alteração de estado, utilizando arquivos CSV para armazenamento.
+Gerenciador de estudos: Um programa em Python para gerenciar flashcards criados pelo usuario, com cadastro de flashcards, desafios e analise de acertos e erros por meio de gráficos.
 
 Sistema de Agenda: Um aplicativo web para gerenciamento de clientes e agendamentos, com controle de acesso, login e senha, e funcionalidades para criar, visualizar e cancelar agendamentos.
 
 🌟 O que estou Aprendendo
 
-Atualmente, estou trabalhando na migração de projetos para usar Docker e PostgreSQL, e também estou aprimorando meus conhecimentos em CSS para melhorar a aparência e usabilidade dos meus projetos.
+Atualmente, estou praticando a linguagem PHP e a criação de API´s.
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-juli07&layout=compact&langs_count=7&theme=dracula"/>
