@@ -1,32 +1,31 @@
-## Hi there 👋
-Olá, bem-vindo ao meu perfil!
 
-👋 Sobre Mim
+#👋 Sobre Mim
 
 Sou Ana Julia, um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em várias áreas, incluindo desenvolvimento web, programação em Python, suporte de hardware e criação de formulários e planilhas. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
-🛠️ Tecnologias e Ferramentas
+# 💻 Tecnologias:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Linguagens de Programação: Python, PHP
+#📂 Projetos Destacados
 
-Frameworks e Bibliotecas: Django
 
-Banco de Dados: PostgreSQL, MySQL
+#🌟 O que estou Aprendendo
 
-Ferramentas: Docker, XAMPP, Git, GitHub, Apache
+- Angular
+- SpringBoot
 
-Outras: APIs do Google 
 
-📂 Projetos Destacados
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anajuliavpac/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anajuliavpac@gmail.com) 
 
-Gerenciador de estudos: Um programa em Python para gerenciar flashcards criados pelo usuario, com cadastro de flashcards, desafios e analise de acertos e erros por meio de gráficos.
 
-Sistema de Agenda: Um aplicativo web para gerenciamento de clientes e agendamentos, com controle de acesso, login e senha, e funcionalidades para criar, visualizar e cancelar agendamentos.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=A-juli07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=A-juli07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-juli07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🌟 O que estou Aprendendo
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=A-juli07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Atualmente, estou praticando a linguagem PHP e a criação de API´s.
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-juli07&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=A-juli07&icon=0&color=0)](https://visitcount.itsvg.in)
