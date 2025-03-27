@@ -8,7 +8,8 @@ Sou Ana Julia, um desenvolvedor apaixonado por criar soluções inovadoras e efi
 
 # 📂 Projetos Destacados
 
-
+- API_de_Gestao_de_Investimentos : Uma API RESTful para gerenciar moedas e investidores.
+-  Jabuti-Apps/jabuti: Sistema de frota envolvendo registros de carros, manutenções, abastecimentos e agendamentos usando a API do Google, criado para a fase de Imersão em Computação Avançada do Projeto de Residência TIC.
 
 # 🌟 O que estou Aprendendo
 
