@@ -22,7 +22,6 @@ Sou Ana Julia, um desenvolvedor apaixonado por criar soluções inovadoras e efi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=A-juli07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A-juli07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-juli07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
